@@ -24,12 +24,14 @@ export const lightColors: Colors = {
   dropdown: "#1e293b",
   invertedContrast: "#8b5cf6",
   input: "#eeeaf4",
-  inputSecondary: "#d7caec",
+  inputSecondary: "#8b5cf6",
   tertiary: "#EFF4F5",
   text: "#8b5cf6",
   textDisabled: "#BDC2C4",
   textSubtle: "#8b5cf6",
-  borderColor: "#E9EAEB",
+
+  
+  borderColor: "#8b5cf6",
   gradients: {
     bubblegum:
       "#353547",
