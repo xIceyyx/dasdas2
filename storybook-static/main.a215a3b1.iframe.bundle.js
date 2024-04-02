@@ -73,7 +73,7 @@
           backgroundDisabled: "#E9EAEB",
           backgroundAlt: "#FFFFFF",
           contrast: "#191326",
-          dropdown: "#190602",
+          dropdown: "#1e293b",
           invertedContrast: "#FFFFFF",
           input: "#eeeaf4",
           inputSecondary: "#d7caec",
@@ -99,7 +99,7 @@
           contrast: "#FFFFFF",
           dropdown: "#1e293b",
           invertedContrast: "#191326",
-          input: "#190602",
+          input: "#1e293b",
           inputSecondary: "#fff",
           primaryDark: "#8b5cf6",
           tertiary: "#353547",
@@ -25261,12 +25261,12 @@
           {
             label: "Discord",
             icon: "TelegramIcon",
-            items: [{ label: "English", href: "https://t.me/Finance1869" }],
+            items: [{ label: "English", href: "https://t.me/swapdegen" }],
           },
           {
             label: "Twitter",
             icon: "TwitterIcon",
-            href: "https://twitter.com/",
+            href: "https://twitter.com/swapdegen",
           },
         ],
         rainbowAnimation = Object(styled_components_browser_esm.keyframes)([

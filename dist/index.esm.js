@@ -7620,14 +7620,14 @@ var socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/Finance1869",
+        href: "https://t.me/swapdegen",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/",
+    href: "https://twitter.com/swapdegen",
   },
 ];
 var MENU_HEIGHT = 64;
@@ -9335,7 +9335,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   backgroundDisabled: "#E9EAEB",
   backgroundAlt: "#FFFFFF",
   contrast: "#191326",
-  dropdown: "#190602",
+  dropdown: "#1e293b",
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   inputSecondary: "#d7caec",
@@ -9357,11 +9357,11 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   secondary: "#fff",
   background: "#353547",
   backgroundDisabled: "#3c3742",
-  backgroundAlt: "#190602",
+  backgroundAlt: "#1e293b",
   contrast: "#FFFFFF",
   dropdown: "#1e293b",
   invertedContrast: "#191326",
-  input: "#190602",
+  input: "#1e293b",
   inputSecondary: "#fff",
   primaryDark: "#0098A1",
   tertiary: "#353547",
