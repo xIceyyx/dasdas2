@@ -8853,7 +8853,7 @@ var AccountModal = function (_a) {
           href: "https://blockscout.scroll.io/address/" + account,
           mr: "16px",
         },
-        "View on ScrollScan"
+        "View on DegenScan"
       ),
       React.createElement(CopyToClipboard, { toCopy: account }, "Copy Address")
     ),

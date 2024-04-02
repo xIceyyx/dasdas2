@@ -32045,7 +32045,7 @@
                   small: !0,
                   href: "https://blockscout.scroll.io/address/" + account,
                   mr: "16px",
-                  children: "View on ScrollScan",
+                  children: "View on DegenScan",
                 }),
                 Object(jsx_runtime.jsx)(WalletModal_CopyToClipboard, {
                   toCopy: account,
