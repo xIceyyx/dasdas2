@@ -103,7 +103,7 @@
           inputSecondary: "#fff",
           primaryDark: "#8b5cf6",
           tertiary: "#353547",
-          text: "#ffeeda",
+          text: "#8b5cf6",
           textDisabled: "#666171",
           textSubtle: "#fff",
           borderColor: "#524B63",
