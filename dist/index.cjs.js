@@ -9500,7 +9500,7 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   backgroundDisabled: "#3c3742",
   backgroundAlt: "#190602",
   contrast: "#FFFFFF",
-  dropdown: "#1E1D20",
+  dropdown: "#1e293b",
   invertedContrast: "#191326",
   input: "#190602",
   inputSecondary: "#fff",
