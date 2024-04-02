@@ -23,8 +23,8 @@ const AccountModal: React.FC<Props> = ({ account, logout, onDismiss = () => null
       {account}
     </Text>
     <Flex mb="32px">
-      <LinkExternal small href={`https://blockscout.scroll.io/address/${account}`} mr="16px">
-        View on ScrollScan
+      <LinkExternal small href={`https://explorer.degen.tips/address/${account}`} mr="16px">
+        View on DegenScan
       </LinkExternal>
       <CopyToClipboard toCopy={account}>Copy Address</CopyToClipboard>
     </Flex>
@@ -34,6 +34,8 @@ const AccountModal: React.FC<Props> = ({ account, logout, onDismiss = () => null
         variant="secondary"
         onClick={() => {
           logout();
+
+          
           window.localStorage.removeItem(connectorLocalStorageKey);
           onDismiss();
         }}
